@@ -23,7 +23,7 @@
             <section class="col-md-4" aria-labelledby="librariesTitle">
                 <h2 id="librariesTitle">Get more libraries</h2>
                 <p>
-                    Testing testing. :) part 1
+                    Testing testing. :) part 2
                 </p>
                 <p>
                     <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
